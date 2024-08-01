@@ -56,3 +56,10 @@ button{
     border-radius: 5px;
     cursor: pointer;
 }
+
+h5{
+    color: rgba(255, 255, 255, 0.621);
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
